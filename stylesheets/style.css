@@ -1,0 +1,58 @@
+html
+{
+	box-sizing: border-box;
+}
+*, *:before, *:after 
+{	
+	box-sizing: inherit;
+}
+h3, h5{
+	padding-left: 30px;
+}
+
+.home{
+	height: none;
+}
+
+.current{
+	margin-left: 20px;
+	margin-top: 20px;
+	padding-top: 20px;
+	height: auto;
+}
+
+.current ul{
+
+}
+
+.current ul img{
+	width: 80px;
+	height: auto;
+	padding-right: 20px;
+}
+
+.future{
+	margin-left: 20px;
+	padding-top: 20px;
+	margin-top: 20px;
+	height: auto;
+}
+
+.future ul{
+
+}
+
+.bookshelf{
+	margin-left: 20px;
+	padding-top: 20px;
+	margin-top: 20px;
+	height: auto;
+}
+
+.bookshelf ul{
+
+}
+
+#subMenu{
+
+}
