@@ -6,23 +6,18 @@ html
 {	
 	box-sizing: inherit;
 }
-h3, h5{
-	padding-left: 30px;
-}
 
-.home{
-	height: none;
+h3, h5{
+	padding-left: 10px;
+	padding-bottom: 10px;
 }
 
 .current{
 	margin-left: 20px;
 	margin-top: 20px;
 	padding-top: 20px;
+	padding-left: 320px;
 	height: auto;
-}
-
-.current ul{
-
 }
 
 .current ul img{
@@ -35,24 +30,36 @@ h3, h5{
 	margin-left: 20px;
 	padding-top: 20px;
 	margin-top: 20px;
+	padding-left: 320px;
 	height: auto;
 }
 
-.future ul{
-
+.future ul img{
+	width: 80px;
+	height: auto;
+	padding-right: 20px;
 }
 
 .bookshelf{
 	margin-left: 20px;
 	padding-top: 20px;
 	margin-top: 20px;
+	padding-left: 320px;
 	height: auto;
+	padding-bottom: 10px;
 }
 
-.bookshelf ul{
-
+.bookshelf ul img{
+	width: 80px;
+	height: auto;
+	padding-right: 20px;
 }
 
 #subMenu{
-
+	padding-left: 100px;
+}
+.footer{
+	padding-left: 400px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
